@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example Application</string>
+    <string name="my_great_app">My Great App</string>
+    <string name="click_me">Click Me!</string>
+</resources>
