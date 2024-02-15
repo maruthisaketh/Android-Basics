@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Images Demo</string>
+    <string name="hello_cat">Hello Cat!</string>
+    <string name="cat">Cat</string>
+    <string name="change_cat">Change cat</string>
+</resources>
