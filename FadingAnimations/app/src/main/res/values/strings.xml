@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FadingAnimations</string>
+    <string name="bart_simpson">bart_simpson</string>
+    <string name="homer_simpson">Homer Simpson\n</string>
+</resources>
