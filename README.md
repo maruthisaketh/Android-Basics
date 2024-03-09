@@ -26,3 +26,6 @@ An application to understand the code part of the android where the actual funct
 
 ## NumberShapes
 An application to understand loops, condition statements and other object oriented parts of the code in android
+
+## Connect 3
+A Game application with simple connect 3 rules where yellow and red coins are players
