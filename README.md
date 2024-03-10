@@ -29,3 +29,6 @@ An application to understand loops, condition statements and other object orient
 
 ## Connect 3
 A Game application with simple connect 3 rules where yellow and red coins are players
+
+## VideoDemo
+A basic application to understand the use of VideoView and interactivity using MediaController to play videos in android
