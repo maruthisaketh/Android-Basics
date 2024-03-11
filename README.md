@@ -32,3 +32,6 @@ A Game application with simple connect 3 rules where yellow and red coins are pl
 
 ## VideoDemo
 A basic application to understand the use of VideoView and interactivity using MediaController to play videos in android
+
+## AudioDemo
+A basic application to understand the use of MediaPlayer to play Audios in android
