@@ -35,3 +35,6 @@ A basic application to understand the use of VideoView and interactivity using M
 
 ## AudioDemo
 A basic application to understand the use of MediaPlayer to play Audios in android
+
+## SeekBarDemo
+A basic application that helps in understanding the seekbar usage in the android applications. In this applications there are two seekbars used, one to change the volume and the second to seek the audio that is being played.
